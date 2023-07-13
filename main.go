@@ -84,7 +84,7 @@ func deploy() {
 func main() {
 
 	// Deploy contract
-	deploy()
+	// deploy()
 
 	server := getENV("SERVER")
 	fmt.Println("Server: ", server)
